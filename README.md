@@ -1,29 +1,14 @@
-# README #
+#### 运行
 
-This README would normally document whatever steps are necessary to get your application up and running.
+- 在HBuilderX编辑器中打开此项目
+- 对项目点右键，可以识别项目类型 [详情](https://ask.dcloud.net.cn/article/35878)
+- 打开终端：yarn
+- 运行-运行到浏览器-chrome
+- http://localhost:8080/ 
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+#### 截图
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+![](https://pic.imgdb.cn/item/632a862a16f2c2beb1a2a50f.jpg)
+![](https://pic.imgdb.cn/item/632a862a16f2c2beb1a2a503.jpg)
+![](https://pic.imgdb.cn/item/632a862a16f2c2beb1a2a4fd.jpg)
