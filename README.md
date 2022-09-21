@@ -21,5 +21,8 @@
 ### 截图
 
 <img src="https://pic.imgdb.cn/item/632a862a16f2c2beb1a2a50f.jpg" width="200">
-<img src="https://pic.imgdb.cn/item/632a862a16f2c2beb1a2a503.jpg" width="200">
-<img src="https://pic.imgdb.cn/item/632a862a16f2c2beb1a2a4fd.jpg" width="200">
+
+
+### 预览
+
+<img src="https://pic.imgdb.cn/item/632a8d0716f2c2beb1aa9bf4.jpg" width="200">
