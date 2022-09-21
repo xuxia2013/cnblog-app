@@ -1,0 +1,35 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/index/home",
+			"style": {
+				"navigationBarTitleText": "代码改变世界"
+			}
+		},
+		{
+			"path": "pages/index/details",
+			"style": {
+				"navigationBarTitleText": "博文"
+			}
+		},
+		{
+			"path": "pages/index/author",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/index/search",
+			"style": {
+				"navigationBarTitleText": "找找看"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"onReachBottomDistance": 200
+	}
+}

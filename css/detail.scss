@@ -1,0 +1,106 @@
+.banner {
+	display: flex;
+	padding: 22upx 30upx;
+	margin-bottom: 20upx;
+	overflow: hidden;
+	position: relative;
+	background-color: #f0f0f0;
+}
+
+.banner-img {
+	width: 100%;
+	width: 48px;
+	height: 48px;
+	margin-right: 20px;
+}
+
+.banner-title {
+	font-size: 15px;
+	font-weight: 400;
+	color: #0053a1;
+}
+
+.banner-subtitle {
+	font-size: 14px;
+	margin-top: 10px;
+	color: gray;
+}
+
+.article-meta {
+	padding: 0 30upx;
+	padding-top: 0;
+	padding-bottom: 10upx;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	color: gray;
+	line-height: 50rpx;
+	font-size: 14px;
+}
+
+.article-title {
+	font-size: large;
+	padding: 30rpx;
+	color: #0053a1;
+}
+
+.article-text {
+	font-size: 26upx;
+	line-height: 50upx;
+	margin-right: 20upx;
+}
+.article-url{
+	margin: 10px 0;
+	color: gray;
+	font-size: 26upx;
+	word-break: break-all;
+}
+.article-author,
+.article-time {
+	margin-right: 20upx;
+	font-size: 30upx;
+}
+
+.article-content {
+	padding: 0 30upx;
+	margin-bottom: 30upx;
+}
+.comment {
+	.icon {
+		position: sticky;
+		top: 0;
+		padding:30rpx 30rpx;
+		background: white;
+		border-bottom: 2rpx solid #f0f0f0;
+		.item {
+			text-align: center;
+			flex: 1;
+			text {
+				margin-left: 10px;
+			}
+		}
+	}
+	border-top: 10rpx solid #f0f0f0;
+	.comment-box {
+		padding: 0 30upx;
+		.comment-img {
+			width: 30px;
+			height: 30px;
+			border-radius: 50%;
+			margin-right: 10px;
+		}
+		.comment-item {
+			padding: 10px 0;
+			border-top: 1px solid #f0f0f0;
+		}
+		.comment-title {
+			display: flex;
+			margin-bottom: 10px;
+			line-height: 30px;
+		}
+		.comment-content {
+			padding-left: 40px;
+			word-break: break-all;
+		}
+	}
+}
