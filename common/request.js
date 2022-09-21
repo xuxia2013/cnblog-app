@@ -42,8 +42,8 @@ async function getToken() {
 		url: '/token',
 		method: 'POST',
 		data: {
-			client_id: '76316480-b3b4-4428-bb62-25f911c1faae',
-			client_secret: 'GO-QDzfj7jaFFOgF1aLXUfcZ_zeyLzWqPvn7XZgI0pLqKYb1GZfojnRXDhWA5IEMnZsAIkHNU1qwLq7D',
+			client_id: '',
+			client_secret: '',
 			grant_type: 'client_credentials'
 		},
 		header: {
