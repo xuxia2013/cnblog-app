@@ -25,4 +25,5 @@
 
 ### 预览
 
-<img src="https://pic.imgdb.cn/item/632a8d0716f2c2beb1aa9bf4.jpg" width="200">
+<img src="https://tx2.a.yximgs.com/udata/music/music_67e30c9f853644188622826d0ca4d9d80.jpg" width="200">
+
