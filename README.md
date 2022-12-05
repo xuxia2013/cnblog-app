@@ -20,7 +20,7 @@
 
 ### 截图
 
-![](https://pic.imgdb.cn/item/638db4fab1fccdcd365d548f.jpg)
+![img](https://pic.imgdb.cn/item/638db4fab1fccdcd365d548f.jpg)
 
 ### 预览
 
