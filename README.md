@@ -20,10 +20,11 @@
 
 ### 截图
 
-<img src="https://pic.imgdb.cn/item/638db4fab1fccdcd365d548f.jpg" width="200">
-<img src="https://pic.imgdb.cn/item/638db4fab1fccdcd365d5485.jpg" width="200">
-<img src="https://pic.imgdb.cn/item/638db4f9b1fccdcd365d547b.jpg" width="200">
+![](https://pic.imgdb.cn/item/638db4fab1fccdcd365d548f.jpg)
 
+![](https://pic.imgdb.cn/item/638db4fab1fccdcd365d5485.jpg)
+
+![](https://pic.imgdb.cn/item/638db4f9b1fccdcd365d547b.jpg)
 
 
 ### 预览
