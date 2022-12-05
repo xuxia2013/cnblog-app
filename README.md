@@ -19,8 +19,8 @@
 
 
 ### 截图
+![微信图片_20221205170747](https://user-images.githubusercontent.com/10276783/205602655-dc1e81fe-3c7e-42bf-a74e-c57957d61309.jpg)
 
-![img](https://pic.imgdb.cn/item/638db4fab1fccdcd365d548f.jpg)
 
 ### 预览
 
